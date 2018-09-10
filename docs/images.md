@@ -5,7 +5,7 @@ title: Images
 
 ## Static Image Resources
 
-React Native provides a unified way of managing images and other media assets in your iOS and Android apps. To add a static image to your app, place it somewhere in your source code tree and reference it like this:
+React Native provides an* unified way of managing images and other media assets in your iOS and Android apps. To add a static image to your app, place it somewhere in your source code tree and reference it like this:
 
 ```javascript
 <Image source={require('./my-icon.png')} />
